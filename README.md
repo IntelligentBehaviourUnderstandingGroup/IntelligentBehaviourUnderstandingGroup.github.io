@@ -1,1 +1,1 @@
-# IntelligentBehaviourUnderstandingGroup.github.io
+# ibug-group.github.io
